@@ -20,9 +20,14 @@ def Grade():
   
      print ( s_name + " got D grade")
      
-  else:
+  elif(percentage>=0 and percentage<60):
+
       
-       print(s_name + " failed")
+       print(s_name + " have failed")
+
+  else:
+
+        print("INVALID INPUT")
        
  
 Grade()
