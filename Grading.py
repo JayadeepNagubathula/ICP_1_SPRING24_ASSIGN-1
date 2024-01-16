@@ -30,4 +30,4 @@ def Grade():
         print("INVALID INPUT")
        
  
-Grade()
+Grade() #calling the Grade function to execute our program.
