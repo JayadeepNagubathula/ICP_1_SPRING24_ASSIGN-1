@@ -14,5 +14,4 @@ Hello Guys, In this repository i have performed some of the basic python program
 
  please do check the document and run the programs in python compiler. Refer to the comments in code to know what exactly that code does in the program.
 
-
 THANK YOU
